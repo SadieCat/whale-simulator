@@ -3,8 +3,14 @@
 
 [package]
 name = "whalesim"
-version = "0.0.0"
+version = "0.1.0"
 edition = "2021"
+
+description = "A tool that allows converting images to IRC formatting codes."
+documentation = "https://docs.rs/whalesim/"
+homepage = "https://github.com/SadieCat/whale-simulator/"
+license = "AGPL-3.0-or-later"
+repository = "https://github.com/SadieCat/whale-simulator/"
 
 [dependencies]
 clap = { version = "3.0.7", features = [ "derive" ] }
