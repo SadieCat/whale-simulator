@@ -1,0 +1,12 @@
+# Whale Simulator (C) 2022 Sadie Powell <sadie@witchery.services>
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+[package]
+name = "whalesim"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "3.0.7", features = [ "derive" ] }
+rand = "0.8.4"
+termion = "1.5.6"
