@@ -3,10 +3,10 @@
 
 [package]
 name = "whalesim"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 
-description = "A tool that allows converting images to IRC formatting codes."
+description = "A a terminal game written in Rust where you are a whale and you have to avoid pesky fishing boats whilst snacking on delicious krill."
 documentation = "https://docs.rs/whalesim/"
 homepage = "https://github.com/SadieCat/whale-simulator/"
 license = "AGPL-3.0-or-later"
